@@ -1,9 +1,9 @@
-# pyDWD: a minimal python interface to load and read GRIB data from the german weather services (DWD)
+# dwd4cast: a minimal python interface to load and read GRIB weather forecast data from the german weather services (DWD)
 
 ## Installation
-Installing `pyDWD`from pypi (e.g. with `pip`):
+Installing `dwd4cast`from pypi (e.g. with `pip`):
 ```bash
-pip install pyDWD
+pip install dwd4cast
 ```
 ### Install binary dependencies
 

@@ -1,2 +1,2 @@
 import importlib.metadata
-__version__ = importlib.metadata.version('pyDWD')
+__version__ = importlib.metadata.version('dwd4cast')
