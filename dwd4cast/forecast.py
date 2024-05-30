@@ -39,6 +39,7 @@ class Forecast:
         self._cache_dir = os.path.join(
             get_cache_dir(),
             "forecasts",
+            dwd_product,
             datetime.datetime.now().strftime("%Y-%m-%d_%H"),
         )
         if not os.path.exists(self._cache_dir):
