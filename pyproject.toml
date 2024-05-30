@@ -38,6 +38,10 @@ uvicorn = "^0.30.0"
 [tool.poetry.scripts]
 dwd4cast = "dwd4cast.cli:cli"
 
+[tool.poetry.group.test.dependencies]
+pytest = "^8.2.1"
+requests-mock = "^1.12.1"
+
 [tool.ruff]
 target-version = "py311"
 line-length = 120
