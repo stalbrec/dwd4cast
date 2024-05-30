@@ -1,4 +1,6 @@
 # dwd4cast: a minimal python interface to load and read GRIB weather forecast data from the german weather services (DWD)
+![PyPI - Version](https://img.shields.io/pypi/v/dwd4cast)
+[![Ruff](https://github.com/stalbrec/dwd4cast/actions/workflows/ruff.yml/badge.svg)](https://github.com/stalbrec/dwd4cast/actions/workflows/ruff.yml)
 
 ## Installation
 Installing `dwd4cast`from pypi (e.g. with `pip`):
